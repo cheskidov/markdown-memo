@@ -9,3 +9,5 @@ My Markdown Syntax Cheatsheet
 + *[Quoting Text](TEXT_QUOTING.md)*
 + *[Quoting Code](CODE_QUOTING.md)*
 + *[Links](LINKS.md)*
++ *[Images](IMAGES.md)*
++ *[Tables](TABLES.md)*
