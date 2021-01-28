@@ -8,3 +8,4 @@ My Markdown Syntax Cheatsheet
 + *[Styling Text](TEXT_STYLING.md)*
 + *[Quoting Text](TEXT_QUOTING.md)*
 + *[Quoting Code](CODE_QUOTING.md)*
++ *[Links](LINKS.md)*
