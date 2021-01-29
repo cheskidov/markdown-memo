@@ -10,4 +10,4 @@ Outside vertical lines (|) are optional and are only needed to make the Markdown
 | ------------- |:------------------:| -----:|
 | column 3      | right aligned      | $1600 |
 | column 2      | centered           |   $12 |
-| zebra lines   | прикольные         |    $1 |
+| zebra lines   | are cool           |    $1 |
